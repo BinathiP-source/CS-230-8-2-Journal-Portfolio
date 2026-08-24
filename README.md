@@ -21,3 +21,6 @@ How did you interpret the user’s needs and implement them into your software d
 To interpret the user's needs I analysed what services and features the client would like to implement in the application for their users. This helps to understand and consider user's needs when designing the application to provide user services and features for the best user experience. 
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
+
+I approached designing software with the software design documentation, this is the same strategy I would use in the future because I understood how important the documenting is to planning ahead before starting on the actual development process. This helps to plan ahead, understand client's requirements, client's budget and limitations. The techniques I would use is to research fully on the topic before starting on development. An example of this is when I know the client would like to expand to different operating systems but with the software design documentation I researched about all operating systems and the server side, client side and the development tools for each system. Researching helped me understand the background of each operating system, the development and programming tools, and the budget for each. 
+
