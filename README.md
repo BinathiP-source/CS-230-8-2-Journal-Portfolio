@@ -10,7 +10,7 @@ In developing this documentation I understood the client's full requirements bef
 
 What about the process of working through a design document did you find helpful when developing the code?
 
-
+The process of working through a design document helps me plan ahead before developing the code. The design document helped me understand the client's requirements, design constraints, domain model and the different operating systems the client would like to expand to. I also understood how the storage and memory management needed for this application.
 
 If you could choose one part of your work on these documents to revise, what would you pick? How would you improve it?
 
@@ -18,6 +18,6 @@ If I were to choose one part of document to revise, I would pick the security se
 
 How did you interpret the user’s needs and implement them into your software design? Why is it so important to consider the user’s needs when designing?
 
-
+To interpret the user's needs I analysed what services and features the client would like to implement in the application for their users. This helps to understand and consider user's needs when designing the application to provide user services and features for the best user experience. 
 
 How did you approach designing software? What techniques or strategies would you use in the future to analyze and design a similar software application?
